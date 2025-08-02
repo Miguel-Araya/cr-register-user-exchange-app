@@ -52,16 +52,17 @@ Este proyecto incluye:
 1. Clonar el repositorio:
 
    git clone https://github.com/Miguel-Araya/cr-register-user-exchange-app.git
+
    cd cr-register-exchange-app
 
-2. Instalar las dependencias:
+3. Instalar las dependencias:
 
    npm install
    # o
    yarn install
 
 
-3. Configurar las variables de entorno:
+4. Configurar las variables de entorno:
 
    Crea un archivo `.env` en la raíz del proyecto y agrega las variables necesarias. Ejemplo:
 
