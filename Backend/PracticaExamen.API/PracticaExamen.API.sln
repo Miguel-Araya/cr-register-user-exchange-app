@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaExamen.API", "PracticaExamen.API\PracticaExamen.API.csproj", "{9CF8277D-97C3-40BD-B44B-45412053C4E0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1DDA7881-35A4-4D04-B793-C1A727CDD721} = {1DDA7881-35A4-4D04-B793-C1A727CDD721}
+		{50334FBE-1017-40AB-9E8C-89C1607FD538} = {50334FBE-1017-40AB-9E8C-89C1607FD538}
+		{93BA1836-D1C5-4A54-8AAE-3017B79491EE} = {93BA1836-D1C5-4A54-8AAE-3017B79491EE}
+		{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B} = {F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaExamen.BC", "PracticaExamen.BC\PracticaExamen.BC.csproj", "{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaExamen.BW", "PracticaExamen.BW\PracticaExamen.BW.csproj", "{50334FBE-1017-40AB-9E8C-89C1607FD538}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B} = {F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaExamen.DA", "PracticaExamen.DA\PracticaExamen.DA.csproj", "{1DDA7881-35A4-4D04-B793-C1A727CDD721}"
+	ProjectSection(ProjectDependencies) = postProject
+		{50334FBE-1017-40AB-9E8C-89C1607FD538} = {50334FBE-1017-40AB-9E8C-89C1607FD538}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaExamen.SG", "PracticaExamen.SG\PracticaExamen.SG.csproj", "{93BA1836-D1C5-4A54-8AAE-3017B79491EE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{50334FBE-1017-40AB-9E8C-89C1607FD538} = {50334FBE-1017-40AB-9E8C-89C1607FD538}
+		{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B} = {F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF8277D-97C3-40BD-B44B-45412053C4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF8277D-97C3-40BD-B44B-45412053C4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF8277D-97C3-40BD-B44B-45412053C4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF8277D-97C3-40BD-B44B-45412053C4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50334FBE-1017-40AB-9E8C-89C1607FD538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50334FBE-1017-40AB-9E8C-89C1607FD538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50334FBE-1017-40AB-9E8C-89C1607FD538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50334FBE-1017-40AB-9E8C-89C1607FD538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DDA7881-35A4-4D04-B793-C1A727CDD721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDA7881-35A4-4D04-B793-C1A727CDD721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDA7881-35A4-4D04-B793-C1A727CDD721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDA7881-35A4-4D04-B793-C1A727CDD721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93BA1836-D1C5-4A54-8AAE-3017B79491EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BA1836-D1C5-4A54-8AAE-3017B79491EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BA1836-D1C5-4A54-8AAE-3017B79491EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BA1836-D1C5-4A54-8AAE-3017B79491EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD76CFCA-73ED-4D5A-86B8-BC7530A0CF79}
+	EndGlobalSection
+EndGlobal
