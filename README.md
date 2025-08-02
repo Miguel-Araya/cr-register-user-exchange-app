@@ -58,7 +58,7 @@ Este proyecto incluye:
 3. Instalar las dependencias:
 
    npm install
-   # o
+   o
    yarn install
 
 
@@ -73,7 +73,7 @@ Este proyecto incluye:
 5. Iniciar la aplicación en modo desarrollo:
 
    npm run dev
-   # o
+   o
    yarn dev
 
    La aplicación estará disponible en `http://localhost:5251` (o el puerto asignado por Vite).
