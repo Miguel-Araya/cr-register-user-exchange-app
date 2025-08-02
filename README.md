@@ -22,7 +22,7 @@ Este proyecto incluye:
   * Teléfono: formato `####-####`
   * Contraseña con requisitos definidos
 * Máscaras de entrada para mejorar la experiencia del usuario.
-* Consulta del tipo de cambio oficial desde la API de Hacienda o BCCR.
+* Consulta del tipo de cambio desde la API de Hacienda.
 * Notificaciones de éxito y error.
 * Diseño responsivo para diferentes tamaños de pantalla.
 
