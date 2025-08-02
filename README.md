@@ -31,7 +31,7 @@ Este proyecto incluye:
 ### Frontend
 
 * React y Vite
-
+* Tailwind CSS
 ### Backend
 * .NET Core
 * Entity FrameWork
