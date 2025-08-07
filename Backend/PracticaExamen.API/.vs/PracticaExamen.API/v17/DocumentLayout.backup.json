@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50334FBE-1017-40AB-9E8C-89C1607FD538}|PracticaExamen.BW\\PracticaExamen.BW.csproj|c:\\users\\miguel\\desktop\\arayaarroyomiguel_c00490_loriafonsecaedwin_c04408 _tarea_i_aplicada_backend\\practicaexamen.api\\practicaexamen.bw\\cu\\gestionarusuariobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50334FBE-1017-40AB-9E8C-89C1607FD538}|PracticaExamen.BW\\PracticaExamen.BW.csproj|solutionrelative:practicaexamen.bw\\cu\\gestionarusuariobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50334FBE-1017-40AB-9E8C-89C1607FD538}|PracticaExamen.BW\\PracticaExamen.BW.csproj|c:\\users\\miguel\\desktop\\arayaarroyomiguel_c00490_loriafonsecaedwin_c04408 _tarea_i_aplicada_backend\\practicaexamen.api\\practicaexamen.bw\\practicaexamen.bw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50334FBE-1017-40AB-9E8C-89C1607FD538}|PracticaExamen.BW\\PracticaExamen.BW.csproj|solutionrelative:practicaexamen.bw\\practicaexamen.bw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|c:\\users\\miguel\\desktop\\arayaarroyomiguel_c00490_loriafonsecaedwin_c04408 _tarea_i_aplicada_backend\\practicaexamen.api\\practicaexamen.bc\\practicaexamen.bc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|solutionrelative:practicaexamen.bc\\practicaexamen.bc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|c:\\users\\miguel\\desktop\\arayaarroyomiguel_c00490_loriafonsecaedwin_c04408 _tarea_i_aplicada_backend\\practicaexamen.api\\practicaexamen.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|solutionrelative:practicaexamen.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|c:\\users\\miguel\\desktop\\arayaarroyomiguel_c00490_loriafonsecaedwin_c04408 _tarea_i_aplicada_backend\\practicaexamen.api\\practicaexamen.api\\controllers\\tipocambiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|solutionrelative:practicaexamen.api\\controllers\\tipocambiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 134,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +43,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PracticaExamen.BW",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\PracticaExamen.BW\\PracticaExamen.BW.csproj",
+              "RelativeDocumentMoniker": "PracticaExamen.BW\\PracticaExamen.BW.csproj",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\PracticaExamen.BW\\PracticaExamen.BW.csproj",
+              "RelativeToolTip": "PracticaExamen.BW\\PracticaExamen.BW.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T23:04:14.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PracticaExamen.BC",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\PracticaExamen.BC\\PracticaExamen.BC.csproj",
+              "RelativeDocumentMoniker": "PracticaExamen.BC\\PracticaExamen.BC.csproj",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\PracticaExamen.BC\\PracticaExamen.BC.csproj",
+              "RelativeToolTip": "PracticaExamen.BC\\PracticaExamen.BC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T23:04:13.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\PracticaExamen.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\PracticaExamen.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PracticaExamen.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:03:50.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoCambioController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\PracticaExamen.API\\Controllers\\TipoCambioController.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.API\\Controllers\\TipoCambioController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\PracticaExamen.API\\Controllers\\TipoCambioController.cs",
+              "RelativeToolTip": "PracticaExamen.API\\Controllers\\TipoCambioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:03:49.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionarUsuarioBW.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\PracticaExamen.BW\\CU\\GestionarUsuarioBW.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.BW\\CU\\GestionarUsuarioBW.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\ArayaArroyoMiguel_C00490_LoriaFonsecaEdwin_C04408 _Tarea_I_Aplicada_Backend\\PracticaExamen.API\\PracticaExamen.BW\\CU\\GestionarUsuarioBW.cs",
+              "RelativeToolTip": "PracticaExamen.BW\\CU\\GestionarUsuarioBW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:03:47.668Z",
+              "EditorCaption": ""
             }
           ]
         },
